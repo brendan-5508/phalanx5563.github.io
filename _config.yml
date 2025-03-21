@@ -1,8 +1,6 @@
 title: 5563 Phalanx
 description: > # this means to ignore newlines until "show_excerpts:"
   FRC Team 5563 - Phalanx
-  St. Mary's High School
-  Lynn, MA
 baseurl: "/"
 url: phalanx5563.org # change this URL, this is needed for generating right sitemap
 
